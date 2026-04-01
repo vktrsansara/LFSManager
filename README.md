@@ -9,7 +9,7 @@
 * Работает с любым объектом `Stream` (Serial, Serial1, SoftwareSerial).
 
 ## Программа для ПК
- [LittleFS Desktop Manager](https://gitverse.ru/vktrsansara/LittleFS_Desktop_Manager) - файловый менеджер на Python (Tkinter).
+ [LittleFS Desktop Manager](https://github.com/vktrsansara/LittleFS-Desktop_Manager) - файловый менеджер на Python (Tkinter).
  Позволяет загружать, скачивать, удалять, переименовывать файлы и форматировать память LittleFS прямо через COM-порт.
  Или уже собранную в exe - [LittleFS Desktop Manager](https://disk.yandex.ru/d/JeJ_uuZE3Uzd8A)
 
